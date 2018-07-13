@@ -7,4 +7,4 @@ to get started
 
 The app should work at this point and current value should become 5 after you confirm the  transasction on component mount
 
-*** The problem happens within `src/App.js` when I try to update the storage value to 20 (or any other value). It always returns back a 5 which is weird because it returns a hash and no errors.
+*** The problem happens within `src/App.js` when I try to update the storage value to 20 (by clicking Set Value to 20). It always returns back a 5 which is weird because it returns a hash and no errors.
